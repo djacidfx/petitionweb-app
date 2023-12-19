@@ -1,0 +1,4 @@
+In digital life, many cases we face in our lives need a petition. A solution has come for a petition website. So, people can start a petition about a specific case, and people who care about your case will sign it. So, your voice will be heard louder and louder. One of these solutions is right here.
+A ready web application to start your own petition website. You can use it with your community or publicly.
+Ready database with ready data for quick testing.
+Built with native PHP 7.x and MySQL 8.

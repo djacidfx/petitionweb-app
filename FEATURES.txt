@@ -1,0 +1,32 @@
+User Features:
+- Manage petitions > add, edit, view, delete.
+- Manage system users (admins) > add, edit, view, delete.
+- View signatures.
+- Simple dashboard stats.
+- Multi languages (easy to add languages -unlimited).
+- Users can start their own petitions.
+- Email verification is needed for starting and/or signing a petition.
+- If you are using a web host with an email, the email system will work automatically (no need for any configurations).
+- No registration required for users to sign or start a petition.
+- Easy to use & manage.
+- No limitations for anything.
+- Ready Database with ready data.
+- Simple design.
+- Responsive.
+- Files to edit About us, Privacy Policy, and Contact us pages.
+
+Code Features:
+- Full source code.
+- Easy to edit.
+- Readable code.
+- Independent classes, functions, and files.
+
+Tech Features:
+- Bootstrap & Font Awesome.
+- Vue.js version 2.
+- PHP + JavaScript Routing.
+- PHP 7.x.
+- MySQL 8.
+- Native/Pure PHP (no framework).
+
+Important notice: Petition images are stored in the database itself, so the application might get slow if there are many images (~10,000) or large size images.

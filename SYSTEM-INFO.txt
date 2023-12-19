@@ -1,0 +1,6 @@
+System Requirements:
+
+PHP 7.x (Tested on PHP 7.3 & 7.4)
+MySQL 8.x
+
+** Haven't tested on any other versions **

@@ -1,0 +1,99 @@
+app, topbar, content, header, footer, copyright, app-loading {
+    display: block;
+}
+modal {
+    display: none;
+}
+body {
+    background-color: #f0f0f0;
+}
+.clickable {
+    cursor: pointer;
+}
+[lpage] {
+    cursor: pointer;
+}
+.nav-link.active {
+    color: #000 !important;
+    text-decoration: underline !important;
+    font-weight: bold !important;
+}
+.hidden {
+    display: none;
+}
+[class*="for-lang--"],
+[id*="for-lang--"] {
+    display: none;
+}
+content {
+    background-color: #fff;
+    box-shadow: 0px 5px 10px 0px rgb(0 0 0 / 10%);
+}
+footer {
+    background-color: #f8f9fa;
+    padding: 2rem;
+}
+footer h5 {
+    margin-bottom: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+footer .nav-item {
+    display: inline-block;
+    margin: 5px 0;
+}
+footer .nav-link {
+    color: #222;
+    display: inline-block;
+    padding: 0;
+}
+footer .nav-link:hover {
+    color: #777;
+}
+footer #third-col-footer .nav-link {
+    margin: 2px 1px;
+    padding: 0;
+    display: inline-block;
+}
+copyright {
+    background-color: #333;
+    color: #fff;
+    padding: 0.7rem;
+}
+copyright a {
+    color: #f0f0f0;
+    text-decoration: none;
+}
+copyright a:hover {
+    color: #ccc;
+}
+.reload-icon-font {
+    font-family: Lucida Sans Unicode;
+}
+.petition-full--text {
+    font-size: 18px;
+}
+.petition-full--footer {
+    font-size: 16px;
+}
+.petition-full--hsigned {
+    font-size: 21px;
+    color: green;
+}
+.petition-full--hsigned--no-one {
+    font-size: 21px;
+    color: darkred;
+}
+*:disabled, .disabled {
+    cursor: not-allowed !important;
+    pointer-events: all !important;
+}
+.petition-small img {
+    max-height: 300px;
+}
+.dh-stats .card {
+    border: 1px solid rgba(0,0,0,0.1) !important;
+}
+.navbar-dark .navbar-toggler-icon, .navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(0, 0, 0, 0.55)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E") !important;
+}
